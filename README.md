@@ -50,7 +50,7 @@ A conceptual model is a simplified representation of the final database. The foc
 ### Example Relationships:
 
 - **One to One**: `Person` owns `Passport`  
-  ![One to One]((images/conceptualDataModel/cardinality.png))
+  ![One to One](images/conceptualDataModel/cardinality.png)
 
 - **One to One (Mandatory)**: `Mother` raises `Child`  
   ![One to One (Mandatory)](link-to-image)
