@@ -39,12 +39,6 @@ A conceptual model is a simplified representation of the final database. The foc
 
 ### Cardinality Types:
 
-- **One**
-- **Many**
-- **One or Many**
-- **One and Only One**
-- **Zero or One**
-
 ![Cardinality and Crow's Foot Notation](images/conceptualDataModel/feetNotation.png)
 
 ### Example Relationships:
