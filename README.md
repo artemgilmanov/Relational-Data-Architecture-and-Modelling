@@ -45,12 +45,12 @@ A conceptual model is a simplified representation of the final database. The foc
 - **One and Only One**
 - **Zero or One**
 
-![Cardinality and Crow's Foot Notation](images/conceptualDataModel/cardinality.png)
+![Cardinality and Crow's Foot Notation](images/conceptualDataModel/feetNotation.png)
 
 ### Example Relationships:
 
 - **One to One**: `Person` owns `Passport`  
-  ![One to One](link-to-image)
+  ![One to One]((images/conceptualDataModel/cardinality.png))
 
 - **One to One (Mandatory)**: `Mother` raises `Child`  
   ![One to One (Mandatory)](link-to-image)
