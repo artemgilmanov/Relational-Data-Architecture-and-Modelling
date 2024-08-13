@@ -1,7 +1,3 @@
-Here is your formatted notes in Markdown:
-
----
-
 # Pizza Shop Database Project
 
 We have been asked by the owner of three local pizza shops to set up a simple database to use to run the business.
