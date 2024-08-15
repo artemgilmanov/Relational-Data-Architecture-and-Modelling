@@ -46,3 +46,20 @@ A conceptual model is a simplified representation of the final database. The foc
 ![One to One](images/conceptualDataModel/cardinality.png)
 
 ---
+
+### What are entity Relationship diagrams?
+
+Entity Relationship Diagrams, or ER Diagrams, visualize the relationship between entities within a database.
+It is a design or blueprint of the database.
+
+---
+
+### When do we use ER Diagram?
+
+Design a new database
+- Break down problem into smaller steps.
+- Help see relationships.
+Debug a database.
+Graphically represent database structure.
+
+---
