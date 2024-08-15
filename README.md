@@ -1,11 +1,3 @@
-# Pizza Shop Database Project
-
-We have been asked by the owner of three local pizza shops to set up a simple database to use to run the business.
-
-The owner wants to track customers' pizza orders to ensure the staff completes and delivers the best pizza. In doing so, the owner wants to set up better tracking of the shop's sales.
-
----
-
 ## What is a Conceptual Model?
 
 A conceptual model is a simplified representation of the final database. The focus is on the broad picture, and specifics are removed.
