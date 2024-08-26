@@ -74,7 +74,7 @@ The First Normal Form.
 The Second Normal Form.
 - The table is in first normal form and all the columns depend on the table's primary key.
 
-The third Normal Form.
+The Third Normal Form.
 - Third Normal Form - the table is in second normal form and all of its columns are not transitively dependent on the primary key.
 
 ---
