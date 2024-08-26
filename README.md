@@ -51,7 +51,30 @@ It is a design or blueprint of the database.
 Design a new database
 - Break down problem into smaller steps.
 - Help see relationships.
-Debug a database.
-Graphically represent database structure.
+- Debug a database.
+- Graphically represent database structure.
+---
+### What is Database Normalization?
+- Table should be about specific topic.
+- Only columns supporting that topic are included.
+
+### Reasons for Database Normalization.
+- Minimize duplicate data.
+- Minimize or avoid data modification issues.
+- Simplify queries.
+
+### Definition of Database Normalization
+- There are three common forms of database normalization: 1st, 2nd, and 3rd normal forms.
+
+The forms are progressive. Meaning that to qualify for 3rd normal form a table must first satisfy the rules for 2nd normal form, and 2nd normal form must adhere to those for 1st normal form.
+
+The First Normal Form.
+The information is stored in relational table and each column contains atomic values, and there are not repeating groups of columns.
+
+The Second Normal Form.
+The table is in first normal form and all the columns depend on the table's primary key.
+
+The third Normal Form.
+Third Normal Form - the table is in second normal form and all of its columns are not transitively dependent on the primary key.
 
 ---
