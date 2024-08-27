@@ -78,3 +78,10 @@ The Third Normal Form.
 - Third Normal Form - the table is in second normal form and all of its columns are not transitively dependent on the primary key.
 
 ---
+### First Normal Definition
+- Data is in a relational database table:
+  - Rows
+  - Columns
+  - Primary Key
+-Each column contains Atomic Values.
+
