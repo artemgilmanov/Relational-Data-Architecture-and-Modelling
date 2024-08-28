@@ -84,4 +84,12 @@ The Third Normal Form.
   - Columns
   - Primary Key
 -Each column contains Atomic Values.
+---
+### The Second Normal Form
+- All Tables are in the 1st Normal Form.
+- All the non-key columns are dependent on the table's primary key.
+
+Ask yourself: What is the table's purpose?
+Does this column serve to describe the primary key identifiers?
+
 
