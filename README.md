@@ -91,5 +91,7 @@ The Third Normal Form.
 
 Ask yourself: What is the table's purpose?
 Does this column serve to describe the primary key identifiers?
-
-
+---
+### The Third Normal Form Definition
+- All Tables are in 2nd Normal Form.
+- It contains only columns that are non-transitively dependent on the Primary Key.
